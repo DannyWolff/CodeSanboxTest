@@ -1,0 +1,13 @@
+body {
+  background-color: lightslategray;
+  color: #700770;
+}
+
+.container {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.container > h1 {
+  text-align: center;
+}
